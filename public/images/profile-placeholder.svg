@@ -1,0 +1,19 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Profile photo placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#12233f"/>
+      <stop offset="100%" stop-color="#091724"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#4cc9f0" stop-opacity="0.82"/>
+      <stop offset="100%" stop-color="#7bd9f7" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#bg)"/>
+  <circle cx="400" cy="340" r="220" fill="url(#glow)" opacity="0.32"/>
+  <rect x="120" y="110" width="560" height="780" rx="36" fill="#0d1b2a" stroke="#57d4ff" stroke-width="8" opacity="0.9"/>
+  <circle cx="400" cy="345" r="145" fill="#162c42" stroke="#57d4ff" stroke-width="8"/>
+  <path d="M288 675c20-110 90-165 112-165s92 55 112 165v80H288v-80Z" fill="#162c42" stroke="#57d4ff" stroke-width="8"/>
+  <path d="M345 300c24-36 58-54 90-54 51 0 94 41 94 96v20c-15-16-40-30-68-38-30-15-58-18-90-18-17 0-33 2-48 6v-12Z" fill="#57d4ff" opacity="0.8"/>
+  <text x="400" y="860" text-anchor="middle" fill="#dfeafc" font-size="44" font-family="Segoe UI, Arial, sans-serif" font-weight="700" letter-spacing="3">ADD PROFILE PHOTO</text>
+</svg>
